@@ -20,7 +20,7 @@ Entwurfsmuster: [Adapter](https://refactoring.guru/design-patterns/adapter)
 
 Hierbei handelt es sich um das Beispiel aus den Folien:
 
-![Das Geometry-Beispiel von den Folien](../adapter-solution.png)
+![Das Geometry-Beispiel von den Folien](adapter-solution.png)
 
 Sie können die Anwendung folgendermassen ausführen:
 
