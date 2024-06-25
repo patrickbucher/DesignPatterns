@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns", "DesignPatterns\DesignPatterns.csproj", "{A8ECCBAD-FB10-4963-BFDD-01B1CFFE53E7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometry", "Geometry\Geometry.csproj", "{A1C1A285-AA6A-48BD-A0FE-FAC6425CDCBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Demo", "DesignPatterns.Demo\DesignPatterns.Demo.csproj", "{A278AB77-66F0-40C1-920A-2DC8C86C544B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeagueTable", "LeagueTable\LeagueTable.csproj", "{E1E6AAC1-2339-45C6-BAFD-518CDFAE79CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Test", "DesignPatterns.Test\DesignPatterns.Test.csproj", "{332AB7AF-E583-4A5F-89FD-FAB77FEAB93D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingLot", "ParkingLot\ParkingLot.csproj", "{28A9C4E1-E3D9-43BB-A60B-517CC4728D62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Payroll", "Payroll\Payroll.csproj", "{9726B8D5-4823-467A-BB90-86CE58A9BA1E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,17 +20,21 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A8ECCBAD-FB10-4963-BFDD-01B1CFFE53E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A8ECCBAD-FB10-4963-BFDD-01B1CFFE53E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A8ECCBAD-FB10-4963-BFDD-01B1CFFE53E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A8ECCBAD-FB10-4963-BFDD-01B1CFFE53E7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A278AB77-66F0-40C1-920A-2DC8C86C544B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A278AB77-66F0-40C1-920A-2DC8C86C544B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A278AB77-66F0-40C1-920A-2DC8C86C544B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A278AB77-66F0-40C1-920A-2DC8C86C544B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{332AB7AF-E583-4A5F-89FD-FAB77FEAB93D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{332AB7AF-E583-4A5F-89FD-FAB77FEAB93D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{332AB7AF-E583-4A5F-89FD-FAB77FEAB93D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{332AB7AF-E583-4A5F-89FD-FAB77FEAB93D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1C1A285-AA6A-48BD-A0FE-FAC6425CDCBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1C1A285-AA6A-48BD-A0FE-FAC6425CDCBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1C1A285-AA6A-48BD-A0FE-FAC6425CDCBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1C1A285-AA6A-48BD-A0FE-FAC6425CDCBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1E6AAC1-2339-45C6-BAFD-518CDFAE79CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1E6AAC1-2339-45C6-BAFD-518CDFAE79CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1E6AAC1-2339-45C6-BAFD-518CDFAE79CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1E6AAC1-2339-45C6-BAFD-518CDFAE79CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28A9C4E1-E3D9-43BB-A60B-517CC4728D62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28A9C4E1-E3D9-43BB-A60B-517CC4728D62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28A9C4E1-E3D9-43BB-A60B-517CC4728D62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28A9C4E1-E3D9-43BB-A60B-517CC4728D62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9726B8D5-4823-467A-BB90-86CE58A9BA1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9726B8D5-4823-467A-BB90-86CE58A9BA1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9726B8D5-4823-467A-BB90-86CE58A9BA1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9726B8D5-4823-467A-BB90-86CE58A9BA1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
