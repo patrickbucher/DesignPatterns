@@ -1,3 +1,5 @@
+TODO: rebuild solution with three projects apiece
+
 # Entwurfsmuster (Design Patterns)
 
 Der Seitenbereich [Design Patterns](https://refactoring.guru/design-patterns)
